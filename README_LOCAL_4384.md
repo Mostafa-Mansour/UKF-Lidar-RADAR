@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Unscented Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
@@ -89,7 +88,3 @@ for instructions and the project rubric.
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
-=======
-# UKF-Radar-Lidar
-C++ implementation of UKF using Radar and Lidar measurements for pedestrians' detection. Code and description will be available by 01.08.2017. 
->>>>>>> 075cba0c88a60689c5c6eca7f9a30c5220d61377

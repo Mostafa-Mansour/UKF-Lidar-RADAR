@@ -12,12 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b4f0961-c988-4d1d-93a4-24e7032ae64b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.cpp" afterPath="$PROJECT_DIR$/src/main.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/measurement_package.h" afterPath="$PROJECT_DIR$/src/measurement_package.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools.cpp" afterPath="$PROJECT_DIR$/src/tools.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tools.h" afterPath="$PROJECT_DIR$/src/tools.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ukf.cpp" afterPath="$PROJECT_DIR$/src/ukf.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ukf.h" afterPath="$PROJECT_DIR$/src/ukf.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -446,12 +441,12 @@
       <workItem from="1506167635004" duration="748000" />
       <workItem from="1506599703564" duration="558000" />
       <workItem from="1506848442032" duration="2899000" />
-      <workItem from="1506936207564" duration="608000" />
+      <workItem from="1506936207564" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45607000" />
+    <option name="totallyTimeSpent" value="45995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="928" height="1056" extended-state="4" />
